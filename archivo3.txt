@@ -1,1 +1,2 @@
 Seguimos con la practica de git
+se modifico el archivo para poder realizar actividad
